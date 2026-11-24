@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Refresh Rate</string>
+    <string name="tile_label">Refresh rate</string>
+</resources>
